@@ -1,0 +1,26 @@
+{
+  "name": "imooc",
+  "version": "1.0.1",
+  "description": "test",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "author": "mcj",
+  "license": "ISC"
+}
